@@ -312,5 +312,5 @@ C:\Users\MyBook Hype\Downloads\Source\
 ---
 
 <p align="center">
-  Dikelola dengan ❤️ oleh Komunitas Pengembang AlterDarkBot & Spider Suite.
+  Dikelola dengan ❤️ oleh Komunitas Pengembang AlterDarkBot (GirayDev).
 </p>
